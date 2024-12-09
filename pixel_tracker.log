@@ -1,0 +1,7 @@
+Watching for file changes with StatReloader
+Not Found: //pixel/
+"GET //pixel/ HTTP/1.1" 404 2280
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2292
+"GET /pixel/ HTTP/1.1" 200 43
+C:\Users\imadeddine.djekoune\Desktop\Work Repo\pixel\myvenv\TrackingPixel\TrackingPixel\settings.py changed, reloading.
